@@ -1,6 +1,6 @@
 # jpa01-ChiranArumugam
 
-Deployed at: https://jpa01-carumugam.dokku-04.cs.ucsb.edu
+Deployed at: https://jpa01-chiranarumugam.dokku-04.cs.ucsb.edu
 
 
 # About this repo
